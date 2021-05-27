@@ -4,11 +4,10 @@ user-guide-description: Una colección de vídeos y tutoriales para Adobe Advert
 breadcrumb-title: Tutoriales de Advertising Cloud
 breadcrumb-url: /docs/advertising-cloud-learn/dsp/overview.html
 solution: Advertising Cloud
-translation-type: tm+mt
 source-git-commit: 48ca6fcc4b72981535b8431da66c030aa5e0ff71
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 24%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
