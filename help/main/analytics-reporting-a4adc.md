@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Informes con canales de marketing de Advertising Cloud (A4AdC)
 
-Descubra cómo funcionan los datos de entrada de pulsaciones y visualizaciones de Advertising Cloud con Adobe Analytics [!UICONTROL Marketing Channels].
+Descubra cómo funcionan los datos de entrada de clics y visualizaciones de Advertising Cloud con Adobe Analytics [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
