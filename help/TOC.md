@@ -3,10 +3,10 @@ user-guide-title: Tutoriales de Adobe Advertising Cloud
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Advertising Cloud.
 breadcrumb-title: Tutoriales de Advertising Cloud
 solution: Advertising Cloud
-source-git-commit: 0821a090afa1799333ca6ef99438667dfdf4b0ee
+source-git-commit: edc34ada8963b389a26a1e466c2154d21a10ca61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 18%
+source-wordcount: '121'
+ht-degree: 17%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 18%
 + DSP {#dsp}
    + [Introducción a Advertising Cloud DSP](/help/dsp/intro.md)
    + [Estructura de la cuenta e interfaz de usuario](/help/dsp/ui.md)
+   + [Cómo crear un paquete](/help/dsp/package-create.md)
    + [Cómo cargar de forma masiva etiquetas de publicidad de terceros](/help/dsp/bulk-upload-third-party-ad-tags.md)
    + [Editar ubicaciones mediante herramientas de edición masiva](/help/dsp/bulk-edit-placement-tools.md)
 + Analytics para Advertising Cloud {#analytics}
@@ -31,7 +32,7 @@ ht-degree: 18%
    + [Crear métricas personalizadas de Analytics con datos de Advertising Cloud](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Will add to DSP chapter once the videos are complete:
-  + [Create a Placement](/help/dsp/placement-create.md)
+  + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
 -->
