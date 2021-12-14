@@ -3,7 +3,7 @@ user-guide-title: Tutoriales de Adobe Advertising Cloud
 user-guide-description: Una colección de vídeos y tutoriales para Adobe Advertising Cloud.
 breadcrumb-title: Tutoriales de Advertising Cloud
 solution: Advertising Cloud
-source-git-commit: dffd703372fd2b14e3f13d1c6c9a754301a6b0ac
+source-git-commit: 8dc83853ba6aeb4c46fea84ebd450fbaa20e928c
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 17%
@@ -31,7 +31,7 @@ ht-degree: 17%
    + [Creación de paneles de Advertising Cloud con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Crear métricas personalizadas de Analytics con datos de Advertising Cloud](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
-<!-- Will add to DSP chapter once the videos are complete:
+<!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
