@@ -1,17 +1,15 @@
 ---
-title: Cómo crear una colocación para Advertising Cloud DSP
-description: Aprenda a crear una colocación.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+title: Cómo crear una colocación de visualización estándar para Advertising Cloud DSP
+description: Aprenda a crear una colocación de visualización estándar.
+source-git-commit: ebceb6cdd931dfb799d2b54f3ab5be84e227e7dd
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Cómo crear una colocación
+# Cómo crear una colocación de visualización estándar
 
-Obtenga información sobre cómo crear una ubicación para una campaña de Advertising Cloud DSP.
+Aprenda a crear una colocación de visualización estándar para una campaña de Advertising Cloud DSP.
 
-<!--
->[!VIDEO]()
--->
+>[!VIDEO](https://video.tv.adobe.com/v/340454)
