@@ -1,16 +1,16 @@
 ---
-title: Cómo crear un paquete para Advertising Cloud DSP
+title: Cómo crear un paquete para DSP
 description: Aprenda a crear un paquete.
 exl-id: 4d4a6c11-6422-4a81-8755-703e98ac6faf
-source-git-commit: cdcc2c1354c3df97dfccb48817d89667ce6b7acb
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
 # Cómo crear un paquete
 
-Obtenga información sobre cómo crear un paquete para una campaña de Advertising Cloud DSP.
+Obtenga información sobre cómo crear un paquete para una campaña de DSP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339257)

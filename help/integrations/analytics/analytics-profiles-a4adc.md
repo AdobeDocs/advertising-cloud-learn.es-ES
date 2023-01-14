@@ -1,18 +1,18 @@
 ---
-title: Crear [!DNL Analytics] Perfiles para la activación y el sistema de informes de Advertising Cloud
-description: Aprenda a utilizar Adobe Analytics para crear grupos de redireccionamiento de sitios sólidos para el remarketing de Advertising Cloud.
+title: Crear [!DNL Analytics] Perfiles para la activación y el sistema de informes de publicidad de Adobe
+description: Aprenda a utilizar Adobe Analytics para crear grupos de retargeting de sitios sólidos para el remarketing de Adobe Advertising.
 exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Crear [!DNL Analytics] Perfiles para la activación y el sistema de informes de Advertising Cloud
+# Crear [!DNL Analytics] Perfiles para la activación y el sistema de informes de publicidad de Adobe
 
-*Anunciantes con[!DNL Adobe Analytics for Advertising Cloud]*
+*Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Aprenda a utilizar Adobe Analytics para crear grupos de redireccionamiento de sitios sólidos para el remarketing de Advertising Cloud.
+Aprenda a utilizar Adobe Analytics para crear grupos de retargeting de sitios sólidos para el remarketing de Adobe Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33503)

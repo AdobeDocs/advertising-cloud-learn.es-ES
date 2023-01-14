@@ -1,15 +1,16 @@
 ---
-title: Estructura de la cuenta de Advertising Cloud DSP e interfaz de usuario
+title: Estructura de la cuenta de DSP e interfaz de usuario
 description: Conozca la estructura DSP cuenta y la interfaz de usuario.
-source-git-commit: 2a499d05defe0dd44c3c4ba0584ac506939bca71
+exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Estructura de la cuenta e interfaz de usuario
 
-Descubra cómo están estructuradas sus cuentas publicitarias de Advertising Cloud DSP, cómo utilizar las vistas de administración de campañas y descripciones de las funciones de gestión de público, inventario, informes, configuración y recursos.
+Conozca cómo están estructuradas sus cuentas de anuncios de DSP, cómo usar las vistas de administración de campañas y descripciones de las funciones de gestión de público, inventario, informes, configuración y recursos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)

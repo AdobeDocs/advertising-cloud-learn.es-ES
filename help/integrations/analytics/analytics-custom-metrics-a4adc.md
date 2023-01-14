@@ -1,18 +1,18 @@
 ---
-title: Crear [!DNL Analytics] Métricas personalizadas con datos de Advertising Cloud
-description: Conozca las métricas personalizadas útiles que debe crear al usar datos de Advertising Cloud en Adobe Analytics.
+title: Crear [!DNL Analytics] Métricas personalizadas con datos publicitarios de Adobe
+description: Conozca las métricas personalizadas útiles que debe crear al usar datos publicitarios de Adobe en Adobe Analytics.
 exl-id: 56077529-443d-4285-9238-13b07b26ad08
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Crear [!DNL Analytics] Métricas personalizadas con datos de Advertising Cloud
+# Crear [!DNL Analytics] Métricas personalizadas con datos publicitarios de Adobe
 
-*Anunciantes con[!DNL Adobe Analytics for Advertising Cloud]*
+*Anunciantes con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Conozca las métricas personalizadas útiles que debe crear al usar datos de Advertising Cloud en Adobe Analytics.
+Conozca las métricas personalizadas útiles que debe crear al usar datos publicitarios de Adobe en Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33919)

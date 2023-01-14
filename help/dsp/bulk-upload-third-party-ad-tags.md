@@ -1,9 +1,10 @@
 ---
-title: Cómo cargar de forma masiva etiquetas de publicidad de terceros para Advertising Cloud DSP
+title: Cómo cargar de forma masiva etiquetas de publicidad de terceros para DSP
 description: Obtenga información sobre cómo cargar varias etiquetas de publicidad de terceros a la vez.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+exl-id: 1681440a-4b20-4819-a649-8754a2d143bc
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
