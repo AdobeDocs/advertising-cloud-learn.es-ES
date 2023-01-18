@@ -1,8 +1,7 @@
 ---
 title: Crear [!DNL Analytics] Segmentos para activación e informes
 description: Aprenda a utilizar las dimensiones de publicidad de Adobe para crear segmentos con el fin de obtener informes y análisis más precisos.
-exl-id: f797e982-e49d-4038-982e-f2635e56591b
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%

@@ -1,8 +1,7 @@
 ---
 title: Creación de informes de entrada al sitio de publicidad de Adobe
 description: Aprenda a crear un informe de entrada al sitio de publicidad de Adobe para supervisar las influencias geográficas, del día, del navegador y del día.
-exl-id: a0a4e465-4e4b-4b72-b6dc-cc899b233379
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

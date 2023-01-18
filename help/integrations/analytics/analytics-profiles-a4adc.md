@@ -1,10 +1,9 @@
 ---
 title: Crear [!DNL Analytics] Perfiles para la activación y el sistema de informes de publicidad de Adobe
 description: Aprenda a utilizar Adobe Analytics para crear grupos de retargeting de sitios sólidos para el remarketing de Adobe Advertising.
-exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
+source-git-commit: 3ea5208bb5cc560a1563cfd9b9647462560d7e67
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
